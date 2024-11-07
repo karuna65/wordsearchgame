@@ -1,0 +1,5 @@
+{
+    "Chemistry": ["ATOM", "MOL", "ELECTRON", "ION", "BOND", "MOLECULE", "REACT", "ELEMENT", "PERIODIC", "COVALENT"],
+    "Physics": ["ENERGY", "FORCE", "MASS", "MOTION", "WAVE", "VELOCITY", "ACCELERATION", "GRAVITY", "QUANTUM", "FUSION"]
+  }
+  
